@@ -1,0 +1,11 @@
+C:\Users\Bill Chandler\Documents\mosh\pullUnique\pullUnique\pullUnique\bin\Debug\netcoreapp2.0\pullUnique.deps.json
+C:\Users\Bill Chandler\Documents\mosh\pullUnique\pullUnique\pullUnique\bin\Debug\netcoreapp2.0\pullUnique.runtimeconfig.json
+C:\Users\Bill Chandler\Documents\mosh\pullUnique\pullUnique\pullUnique\bin\Debug\netcoreapp2.0\pullUnique.runtimeconfig.dev.json
+C:\Users\Bill Chandler\Documents\mosh\pullUnique\pullUnique\pullUnique\bin\Debug\netcoreapp2.0\pullUnique.dll
+C:\Users\Bill Chandler\Documents\mosh\pullUnique\pullUnique\pullUnique\bin\Debug\netcoreapp2.0\pullUnique.pdb
+C:\Users\Bill Chandler\Documents\mosh\pullUnique\pullUnique\pullUnique\obj\Debug\netcoreapp2.0\pullUnique.csproj.CoreCompileInputs.cache
+C:\Users\Bill Chandler\Documents\mosh\pullUnique\pullUnique\pullUnique\obj\Debug\netcoreapp2.0\pullUnique.AssemblyInfoInputs.cache
+C:\Users\Bill Chandler\Documents\mosh\pullUnique\pullUnique\pullUnique\obj\Debug\netcoreapp2.0\pullUnique.AssemblyInfo.cs
+C:\Users\Bill Chandler\Documents\mosh\pullUnique\pullUnique\pullUnique\obj\Debug\netcoreapp2.0\pullUnique.dll
+C:\Users\Bill Chandler\Documents\mosh\pullUnique\pullUnique\pullUnique\obj\Debug\netcoreapp2.0\pullUnique.pdb
+C:\Users\Bill Chandler\Documents\mosh\pullUnique\pullUnique\pullUnique\obj\Debug\netcoreapp2.0\pullUnique.csprojResolveAssemblyReference.cache
